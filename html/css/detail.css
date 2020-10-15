@@ -1,0 +1,340 @@
+.logo {
+    width: 1210px;
+}
+
+.logo2 {
+    margin-left: 0px;
+}
+
+.content {
+    width: 1210px;
+    margin: 100px auto;
+    background-color: #fff;
+
+}
+
+.preview {
+    width: 360px;
+    float: left;
+    position: relative;
+    border: 1px solid #eee;
+    width: 350px;
+    height: 350px;
+}
+
+.middleArea {
+    overflow: hidden;
+}
+
+.middleArea>img {
+    width: 350px;
+    height: 350px;
+}
+
+.middleArea>i {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 30px;
+    height: 30px;
+    background-image: url(//static.360buyimg.com/item/unite/1.0.107/components/default/preview/i/__sprite.png);
+    background-position: 0 -24px;
+}
+
+.zoom {
+    width: 235px;
+    height: 235px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: yellow;
+    opacity: 0.3;
+    cursor: move;
+    display: none;
+}
+
+.bigArea {
+    width: 540px;
+    height: 540px;
+    position: absolute;
+    top: -1px;
+    left: 350px;
+    z-index: 10;
+    border: 1px solid #e4e4e4;
+    overflow: hidden;
+    display: none;
+}
+
+.bigArea>img {
+    width: 800px;
+    height: 800px;
+    position: absolute;
+}
+
+.item {
+    width: 590px;
+    float: left;
+    margin-left: 30px;
+}
+
+.item_name {
+    font: 700 16px Arial,
+        "microsoft yahei";
+    color: #666;
+    padding-top: 10px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.item_name>img {
+    vertical-align: -2px;
+    display: inline;
+}
+
+.item_price {
+    position: relative;
+    padding: 10px 0;
+    background: #f3f3f3;
+    margin-bottom: 10px;
+}
+
+.p_left {
+    line-height: 28px;
+    float: left;
+    padding-left: 10px;
+    font-family: simsun;
+    color: #999;
+}
+
+.p_right {
+    margin-left: 70px;
+    color: #e4393c;
+    font-family: "microsoft yahei";
+    margin-right: 10px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.p_right>i {
+    font-size: 22px;
+}
+
+.p_comm {
+    position: absolute;
+    z-index: 1;
+    right: 10px;
+    top: 8px;
+    color: #999;
+}
+
+.p_com {
+    border-left: solid 1px #e6e6e6;
+    text-align: center;
+    padding: 0 10px;
+    line-height: 15px;
+}
+
+.p_com>p {
+    color: #999;
+}
+
+.p_com>a {
+    font: 14px verdana;
+    color: #005ea7;
+    margin-left: 5px;
+}
+
+.item_choose {
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.arrive>h3 {
+    float: left;
+    padding-left: 10px;
+    font-family: simsun;
+    color: #999;
+    line-height: 23px;
+}
+
+.arrive>select {
+    float: left;
+    position: relative;
+    top: 0;
+    height: 23px;
+    background: #fff;
+    border: 1px solid #CECBCE;
+    padding: 0 24px 0 4px;
+    line-height: 23px;
+    overflow: hidden;
+    margin-left: 5px;
+}
+
+.arrive>h4 {
+    color: #999;
+    float: left;
+    font-size: 12px;
+    line-height: 23px;
+    margin-left: 5px;
+}
+
+.item_jd {
+    margin-left: 60px;
+    color: #999;
+    line-height: 32px;
+}
+
+.item_weight {
+    margin-bottom: 3px;
+    line-height: 32px;
+    display: block;
+}
+
+.item_weight>h3 {
+    float: left;
+    padding-left: 10px;
+    font-family: simsun;
+    color: #999;
+}
+
+.item_weight>p {
+    margin-left: 70px;
+    color: #666;
+}
+
+.item_spacer {
+    height: 0;
+    overflow: hidden;
+    border-bottom: 1px dotted #dfdfdf;
+    margin-bottom: 15px;
+}
+
+.item_main {
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+
+.item_main_left {
+    float: left;
+    padding-left: 10px;
+    font-family: simsun;
+    color: #999;
+}
+
+.item_main_right {
+    margin-left: 70px;
+}
+
+.item_main_right>div {
+    background-color: #f7f7f7;
+    float: left;
+    color: #666;
+    margin-right: 7px;
+    margin-bottom: 4px;
+    position: relative;
+}
+
+.item_main_right>div>a {
+    border: 1px solid#ccc;
+    color: #666;
+    display: block;
+    white-space: nowrap;
+    height: 40px;
+}
+
+.item_main_right>div>a>img {
+    width: 40px;
+    height: 40px;
+    display: inline;
+    position: absolute;
+}
+
+.item_main_right>div>a>i {
+    margin-left: 45px;
+}
+
+.item_main_right>div:first-child>a,
+.item_main_right>div:hover>a {
+    border-color: #e4393c;
+}
+
+.choose_btn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+
+.choose_btn>span {
+    height: 46px;
+    line-height: 46px;
+    padding: 0 26px;
+    font-size: 18px;
+    font-family: "microsoft yahei";
+    font-weight: 700;
+    background-color: #df3033;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 10px;
+    float: left;
+}
+
+.c_btn {
+    width: 58px;
+    height: 44px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    position: relative;
+    margin-right: 10px;
+    float: left;
+}
+
+#num {
+    display: block;
+    width: 43px;
+    height: 42px;
+    line-height: 42px;
+    position: absolute;
+    top: 1px;
+    left: 0;
+    border: 0;
+    text-align: center;
+    padding: 1px 0px;
+}
+
+#minus {
+    display: block;
+    width: 15px;
+    text-align: center;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;
+    background: #f1f1f1;
+    position: absolute;
+    right: -1px;
+    border: 1px solid #ccc;
+    bottom: -1px;
+    color: #ccc;
+    cursor: not-allowed;
+}
+#plus{
+    cursor: pointer;
+    display: block;
+    width: 15px;
+    text-align: center;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;
+    background: #f1f1f1;
+    color: #666;
+    position: absolute;
+    right: -1px;
+    border: 1px solid #ccc;
+    top: -1px;
+}
+.item_jd>i{
+    font-weight: bold;
+    color: #e4393c;
+}

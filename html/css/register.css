@@ -1,0 +1,435 @@
+body {
+    font-size: 14px;
+}
+
+#headerWrap {
+    height: 110px;
+    background: url(../img/zhuce/headbg.jpg) repeat-x left bottom;
+}
+
+.header,
+.content {
+    width: 1210px;
+    margin: 0 auto;
+}
+
+.header>a {
+    width: 160px;
+    height: 50px;
+    float: left;
+    margin-top: 24px;
+    background: url(../img/zhuce/icon.png) no-repeat;
+}
+
+.header>p:nth-of-type(1) {
+    float: left;
+    height: 34px;
+    line-height: 34px;
+    font-size: 24px;
+    color: #333;
+    margin-top: 34px;
+}
+
+.header>p:nth-of-type(2) {
+    font-size: 16px;
+    float: right;
+    margin-top: 55px;
+    color: #999;
+}
+
+.header>p:nth-of-type(2)>a {
+    color: #e22;
+}
+
+.header>p:nth-of-type(2)>a:hover {
+    text-decoration: underline;
+    color: darkred;
+}
+
+.content_bar {
+    position: relative;
+    margin: 80px auto 0;
+    width: 400px;
+}
+
+.content_bar>div:nth-of-type(odd) {
+    float: left;
+    text-align: center;
+}
+
+.content_bar>div:nth-of-type(odd)>span {
+    background: url(../img/zhuce/reg-icon.png) no-repeat;
+    margin: 0 auto;
+    display: block;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    background-position: -45px -200px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #ccc;
+}
+
+.content>.content_bar>.content_bar_hover>span {
+    background-position: 0 -200px;
+    color: #fff;
+}
+
+.content_bar>div:nth-of-type(odd)>p {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #999;
+}
+
+.content>.content_bar>.content_bar_hover>p {
+    color: #3b4;
+}
+
+.content_bar>div:nth-of-type(even) {
+    background: url(../img/zhuce/reg-icon.png) no-repeat;
+    height: 10px;
+    width: 124px;
+    background-position: 0 -100px;
+    position: absolute;
+    top: 7px;
+}
+
+.content_bar>div:nth-of-type(2) {
+    left: 55px;
+}
+
+.content_bar>div:nth-of-type(4) {
+    left: 228px;
+}
+
+.content_bar>div:nth-of-type(3) {
+    margin-left: 106px;
+}
+
+.content_bar>div:nth-of-type(5) {
+    margin-left: 112px;
+}
+
+.content_main {
+    margin: 50px auto 186px;
+    width: 400px;
+}
+
+.content_other {
+    margin-top: 28px;
+}
+
+.content_other>a {
+    color: #333;
+    cursor: pointer;
+}
+
+.content_other>a:first-child {
+    float: left;
+}
+
+.content_other>a:last-child {
+    float: right;
+}
+
+.content_other>a>i {
+    display: inline-block;
+    margin: 0 8px 2px 0;
+    vertical-align: middle;
+    width: 26px;
+    height: 26px;
+    background: url(../img/zhuce/reg-icon.png) no-repeat;
+}
+
+.content_other>a:first-child>i {
+    background-position: 0px -160px;
+}
+
+.content_other>a:last-child>i {
+    background-position: -40px -160px;
+}
+
+.content_other>a:hover {
+    color: red;
+}
+
+.item_phone {
+    height: 56px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.item_phone>div:first-child {
+    border: solid 1px #ddd;
+    border-right: none;
+    padding: 0 0 0 20px;
+    cursor: pointer;
+    color: #666;
+    float: left;
+    width: 87px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.item_phone>div:nth-of-type(2) {
+    border: 1px solid rgb(221, 221, 221);
+    float: left;
+    width: 288px;
+    height: 50px;
+}
+
+.item_phone>div:nth-of-type(2)>input {
+    border: none;
+    font-size: 14px;
+    width: 190px;
+    height: 19px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-top: 16px;
+}
+
+.item_phone:hover div {
+    border-color: rgb(153, 153, 153);
+}
+
+.item_phone>span {
+    position: absolute;
+    left: 0;
+    top: 56px;
+    padding-left: 20px;
+    font-size: 12px;
+    color: #aaa;
+    display: none;
+}
+
+.item_phone>span>i {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: text-top;
+    margin-right: 8px;
+    background: url(../img/zhuce/icon.png) no-repeat;
+}
+
+.item_yz {
+    line-height: 52px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+    z-index: 2;
+    position: relative;
+    border: solid 1px #ddd;
+    width: 398px;
+    height: 52px;
+    margin-bottom: 32px;
+}
+
+.item_yz:hover {
+    border-color: rgb(153, 153, 153);
+}
+
+.item_next {
+    width: 100%;
+    height: 54px;
+    line-height: 54px;
+    text-align: center;
+    color: #fff;
+    background: #e2231a;
+    border: 0;
+    font-size: 16px;
+    font-family: "Microsoft YaHei",
+        "Hiragino Sans GB";
+    cursor: pointer;
+}
+
+.item_next:hover {
+    background: #c81623;
+    color: #eababc;
+}
+
+.footer {
+    width: 1210px;
+    margin: 0 auto;
+    font-size: 12px;
+    text-align: center;
+    border-top: solid 1px #e6e6e6;
+    color: #999;
+    padding-bottom: 30px;
+}
+
+.footer_links {
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.footer_links>a {
+    color: #999;
+    margin: 0 10px;
+}
+
+.right {
+    position: fixed;
+    right: 0px;
+    bottom: 50%;
+    margin-top: -67.5px;
+    display: block;
+    width: 33px;
+    height: 135px;
+    background: url(../img/zhuce/icon.png) no-repeat;
+    background-position: -367px 0;
+}
+
+.right:hover {
+    background-position: -334px 0;
+}
+
+.tip {
+    color: #c5c5c5;
+    height: 27px;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.tip>span{
+    display: none;
+}
+
+.item {
+    position: relative;
+    border: solid 1px rgb(153, 153, 153);
+    width: 398px;
+    height: 52px;
+    color: #666;
+}
+
+.email-yzm {
+    margin-bottom: 34px;
+    width: 402px;
+    height: 52px;
+    position: relative;
+}
+.step2_next>div{
+    width: 100%;
+    height: 54px;
+    line-height: 54px;
+    text-align: center;
+    color: #fff;
+    background: #e2231a;
+    border: 0;
+    font-size: 16px;
+    font-family: "Microsoft YaHei",
+    "Hiragino Sans GB";
+    cursor: pointer;
+}
+.item>i{
+        float: left;
+        width: 87px;
+        height: 50px;
+        line-height: 50px;
+        padding-left: 20px;
+}
+.item>input{
+    border: none;
+    font-size: 14px;
+    width: 190px;
+    height: 19px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-top: 16px;
+}
+.email-yzm>div{
+    position: relative;
+    float: left;
+    border: solid 1px rgb(221, 221, 221);
+}
+.email-yzm>div>i{
+    float: left;
+    width: 87px;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    border: none;
+}
+.email-yzm>div>input{
+    width: 152px;
+    border: 0 none;
+    font-size: 14px;
+    height: 19px;
+    padding-bottom: 11px;
+    padding-left: 20px;
+    padding-top: 16px;
+}
+.email-yzm>button{
+    float: left;
+    width: 118px;
+    height: 52px;
+    border: 1px solid #ddd;
+    border-left: none;
+    background: #fff;
+    color: #333;
+    padding: 0;
+    z-index: 10;
+}
+.email-yzm>div:hover{
+    border-color: rgb(153, 153, 153);
+}
+.email-yzm>button:hover{
+    border: 1px solid rgb(153, 153, 153);
+}
+.tip>span>i{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: text-top;
+    margin-right: 8px;
+    background: url(../img/zhuce/icon.png) no-repeat;
+    background-position: 0 -100px;
+}
+.step1_wrap{
+    display: block;
+}
+.step2_wrap{
+    display: none;
+}
+.step3_wrap{
+    display: none;
+}
+.step3_wrap_top>i{
+    margin: 60px auto 10px;
+    display: block;
+    height: 56px;
+    width: 56px;
+    background: url(../img/zhuce/success.png) no-repeat 0 0;
+}
+.step3_wrap_top>span{
+    font-size: 22px;
+    color: #333;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+}
+.step3_wrap_top>b{
+    text-align: center;
+    font-size: 16px;
+    color: #999;
+    line-height: 26px;
+    display: block;
+}
+.step3_wrap_bottom {
+    margin: 40px 0 87px;
+    text-align: center;
+}
+.step3_wrap_bottom>span{
+    display: inline-block;
+    line-height: 52px;
+    height: 52px;
+    padding: 0 25px;
+    border: 1px solid #ee2223;
+    background: #ee2223;
+    font-size: 16px;
+    color: #fefefe;
+    outline: 0;
+    transition: all .5s;
+    font-weight: 700;
+    cursor: pointer;
+}

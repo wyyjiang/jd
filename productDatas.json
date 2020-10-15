@@ -1,0 +1,1750 @@
+{
+  "chaoshi_nav": [
+    {
+      "id": 1,
+      "title": "食品饮料",
+      "introduce": [
+        "休闲食品",
+        "牛奶",
+        "饮料"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/1.jpg",
+        "../img/chaoshi_nav/2.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "进口食品",
+          "product_introduce": [
+            "休闲零食",
+            "饼干蛋糕",
+            "橄榄油",
+            "坚果蜜饯",
+            "糖果/巧克力",
+            "进口牛奶",
+            "方便食品",
+            "饮料冲调"
+          ]
+        },
+        {
+          "product_title": "休闲食品",
+          "product_introduce": [
+            "进口零食",
+            "猪肉脯",
+            "薯片/膨化",
+            "鸭脖",
+            "海苔",
+            "牛肉干",
+            "果蔬干",
+            "果冻",
+            "辣条"
+          ]
+        },
+        {
+          "product_title": "蛋糕饼干",
+          "product_introduce": [
+            "进口饼干",
+            "曲奇",
+            "面包",
+            "蛋糕",
+            "饼干",
+            "派",
+            "蛋卷",
+            "威化",
+            "肉松饼"
+          ]
+        },
+        {
+          "product_title": "坚果炒货",
+          "product_introduce": [
+            "瓜子",
+            "核桃",
+            "夏威夷果",
+            "松子",
+            "开心果",
+            "碧根果",
+            "腰果",
+            "巴旦木",
+            "花生"
+          ]
+        },
+        {
+          "product_title": "蜜饯果干",
+          "product_introduce": [
+            "枣夹核桃",
+            "枣",
+            "葡萄干",
+            "芒果干",
+            "梅",
+            "山楂",
+            "枸杞",
+            "蔓越莓干",
+            "栗子",
+            "薯/芋头类"
+          ]
+        },
+        {
+          "product_title": "糖果/巧克力",
+          "product_introduce": [
+            "进口巧克力",
+            "巧克力",
+            "口香糖",
+            "棒棒糖",
+            "喜糖",
+            "糖",
+            "润喉糖",
+            "黑巧克力"
+          ]
+        },
+        {
+          "product_title": "牛奶",
+          "product_introduce": [
+            "进口牛奶",
+            "牛奶乳品",
+            "酸奶",
+            "风味奶",
+            "儿童奶",
+            "鲜奶",
+            "成人奶粉",
+            "乳酸饮料"
+          ]
+        },
+        {
+          "product_title": "茗茶",
+          "product_introduce": [
+            "铁观音",
+            "乌龙茶",
+            "龙井",
+            "普洱",
+            "红茶",
+            "绿茶",
+            "白茶",
+            "黑茶",
+            "养生茶",
+            "花果茶",
+            "花草茶"
+          ]
+        },
+        {
+          "product_title": "饮料/水",
+          "product_introduce": [
+            "饮用水",
+            "碳酸水",
+            "中草药饮料",
+            "功能类",
+            "运动类",
+            "茶饮",
+            "蛋白质类",
+            "果蔬类",
+            "果味类"
+          ]
+        },
+        {
+          "product_title": "营养冲调",
+          "product_introduce": [
+            "麦片",
+            "咖啡",
+            "奶茶",
+            "蜂蜜",
+            "蜂产品",
+            "柚子茶",
+            "营养奶粉",
+            "谷粉豆浆"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "粮油副食",
+      "introduce": [
+        "食用油",
+        "米面",
+        "厨房调味"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/1.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "食用油",
+          "product_introduce": [
+            "花生油",
+            "调和油",
+            "玉米油",
+            "葵花籽油",
+            "大豆油",
+            "菜籽油",
+            "茶油",
+            "亚麻籽油",
+            "橄榄油"
+          ]
+        },
+        {
+          "product_title": "米面/面粉",
+          "product_introduce": [
+            "东北大米",
+            "南方籼米",
+            "五常大米",
+            "进口大米",
+            "稻花香",
+            "大米",
+            "面粉",
+            "挂面"
+          ]
+        },
+        {
+          "product_title": "健康杂粮",
+          "product_introduce": [
+            "小米",
+            "红小豆",
+            "黄豆",
+            "薏仁米",
+            "绿豆",
+            "黑米",
+            "糯米",
+            "黑芝麻",
+            "杂粮礼盒"
+          ]
+        },
+        {
+          "product_title": "厨房调味",
+          "product_introduce": [
+            "酱油",
+            "醋",
+            "盐",
+            "白糖",
+            "红糖",
+            "烘焙原料",
+            "味精/鸡精",
+            "复合调味料",
+            "香油/芝麻油"
+          ]
+        },
+        {
+          "product_title": "方便速食",
+          "product_introduce": [
+            "方便面",
+            "方便米饭",
+            "火腿肠",
+            "罐头",
+            "八宝粥",
+            "速食汤粥",
+            "麦片谷物",
+            "方便粉丝"
+          ]
+        },
+        {
+          "product_title": "南北干货",
+          "product_introduce": [
+            "木耳",
+            "银耳",
+            "食用菌",
+            "枸杞",
+            "大枣",
+            "桂圆干",
+            "海干货",
+            "莲子",
+            "水果干"
+          ]
+        },
+        {
+          "product_title": "调味酱",
+          "product_introduce": [
+            "老干妈",
+            "香辣酱",
+            "辣椒酱",
+            "豆瓣酱",
+            "番茄酱",
+            "花生酱",
+            "香菇酱",
+            "拌饭酱",
+            "沙拉酱"
+          ]
+        },
+        {
+          "product_title": "地方特产",
+          "product_introduce": [
+            "宿迁特产",
+            "北京特产",
+            "上海特产",
+            "海南特产",
+            "福建特产",
+            "山西特产",
+            "西藏特产",
+            "四川特产",
+            "安徽特产"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "个人护理",
+      "introduce": [
+        "洗发护发",
+        "身体",
+        "口腔",
+        "女性"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/3.jpg",
+        "../img/chaoshi_nav/4.jpg",
+        "../img/chaoshi_nav/5.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "洗发护理",
+          "product_introduce": [
+            "洗发",
+            "护发素",
+            "护发精油",
+            "发膜",
+            "套装"
+          ]
+        },
+        {
+          "product_title": "身体护理",
+          "product_introduce": [
+            "沐浴",
+            "剃须",
+            "润肤",
+            "颈部",
+            "手足",
+            "护手霜",
+            "手膜",
+            "护足霜",
+            "足膜"
+          ]
+        },
+        {
+          "product_title": "口腔护理",
+          "product_introduce": [
+            "漱口水",
+            "牙膏",
+            "牙粉",
+            "牙刷",
+            "牙线",
+            "牙缝刷",
+            "口喷",
+            "假牙清洁",
+            "套装",
+            "电动牙刷"
+          ]
+        },
+        {
+          "product_title": "美发假发/造型",
+          "product_introduce": [
+            "染发",
+            "假发",
+            "发胶",
+            "发蜡",
+            "弹力素",
+            "发泥",
+            "啫喱",
+            "蓬蓬粉",
+            "发油",
+            "定型喷雾"
+          ]
+        },
+        {
+          "product_title": "卫生护理",
+          "product_introduce": [
+            "卫生巾",
+            "卫生护垫",
+            "卫生棉条",
+            "私密护理",
+            "套装"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "护肤美妆",
+      "introduce": [
+        "面部护肤",
+        "香水彩妆",
+        "男士"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/6.jpg",
+        "../img/chaoshi_nav/7.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "面部护肤",
+          "product_introduce": [
+            "面膜",
+            "卸妆",
+            "洁面",
+            "爽肤水",
+            "乳液面霜",
+            "精华",
+            "眼霜",
+            "防晒",
+            "套装"
+          ]
+        },
+        {
+          "product_title": "香水",
+          "product_introduce": [
+            "女士香水",
+            "男士香水",
+            "Q版香水",
+            "香水套装"
+          ]
+        },
+        {
+          "product_title": "彩妆",
+          "product_introduce": [
+            "底妆",
+            "眉笔",
+            "睫毛膏",
+            "眼线",
+            "眼影",
+            "唇膏/彩",
+            "腮红",
+            "美甲",
+            "美妆工具"
+          ]
+        },
+        {
+          "product_title": "男士专区",
+          "product_introduce": [
+            "面部护理",
+            "洗发护理",
+            "身体护理",
+            "剃须",
+            "男士套装"
+          ]
+        },
+        {
+          "product_title": "身体护肤",
+          "product_introduce": [
+            "沐浴",
+            "润肤",
+            "手足"
+          ]
+        },
+        {
+          "product_title": "美容工具",
+          "product_introduce": [
+            "化妆工具",
+            "美体工具",
+            "美甲工具"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "家居清洁",
+      "introduce": [
+        "纸品湿巾",
+        "衣物清洁",
+        "厨房用品"
+      ],
+      "product": [
+        {
+          "product_title": "纸品湿巾",
+          "product_introduce": [
+            "抽纸",
+            "卷纸",
+            "湿巾",
+            "手帕纸",
+            "厨房用纸",
+            "商务用纸"
+          ]
+        },
+        {
+          "product_title": "衣物清洁",
+          "product_introduce": [
+            "手洗洗衣液",
+            "机洗洗衣液",
+            "衣物护理剂",
+            "除菌消毒",
+            "洗衣粉",
+            "洗衣皂"
+          ]
+        },
+        {
+          "product_title": "家庭清洁",
+          "product_introduce": [
+            "洗手液",
+            "洗洁精",
+            "卫浴清洁",
+            "地板清洁",
+            "墙面玻璃清洁",
+            "家电清洁"
+          ]
+        },
+        {
+          "product_title": "一次性用品",
+          "product_introduce": [
+            "手套",
+            "垃圾袋",
+            "口罩",
+            "餐具用品",
+            "厨房用品",
+            "浴室/卧室用品"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "母婴用品",
+      "introduce": [
+        "奶粉",
+        "尿裤",
+        "玩具"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/8.jpg",
+        "../img/chaoshi_nav/9.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "奶粉",
+          "product_introduce": [
+            "婴儿奶粉",
+            "成人奶粉"
+          ]
+        },
+        {
+          "product_title": "营养辅食",
+          "product_introduce": [
+            "DHA",
+            "钙铁锌/维生素",
+            "米粉/菜粉",
+            "益生菌/初乳",
+            "清火/开胃",
+            "果泥/果汁",
+            "面条/粥"
+          ]
+        },
+        {
+          "product_title": "洗护用品",
+          "product_introduce": [
+            "宝宝护肤",
+            "宝宝洗浴",
+            "理发器",
+            "洗衣液/皂",
+            "奶瓶清洗",
+            "儿童餐具",
+            "水壶/水杯"
+          ]
+        },
+        {
+          "product_title": "喂养用品",
+          "product_introduce": [
+            "奶瓶奶嘴",
+            "吸奶器",
+            "牙胶安抚",
+            "暖奶消毒",
+            "辅食料理机"
+          ]
+        },
+        {
+          "product_title": "寝居服饰",
+          "product_introduce": [
+            "婴儿外出服",
+            "婴儿内衣",
+            "婴儿礼服",
+            "婴儿鞋帽袜",
+            "家居床品",
+            "安全防护"
+          ]
+        },
+        {
+          "product_title": "妈妈专区",
+          "product_introduce": [
+            "孕妇装",
+            "防辐射服",
+            "妈咪包/背婴带",
+            "产后塑身",
+            "孕妇护肤",
+            "文胸/内裤",
+            "月子装"
+          ]
+        },
+        {
+          "product_title": "童车童床",
+          "product_introduce": [
+            "婴儿床",
+            "婴儿推车",
+            "餐椅摇椅",
+            "学步车",
+            "扭扭车",
+            "滑板车",
+            "电动车"
+          ]
+        },
+        {
+          "product_title": "安全座椅",
+          "product_introduce": [
+            "提篮式",
+            "安全座椅",
+            "增高垫"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "中外名酒",
+      "introduce": [
+        "白酒",
+        "红酒/起泡",
+        "啤酒"
+      ],
+      "imgs": [
+        "../img/chaoshi_nav/10.jpg"
+      ],
+      "product": [
+        {
+          "product_title": "白酒",
+          "product_introduce": [
+            "清香型",
+            "酱香型",
+            "浓香型",
+            "凤香型",
+            "兼香型",
+            "董香型",
+            "黄酒/养生酒",
+            "陈年老酒"
+          ]
+        },
+        {
+          "product_title": "啤酒",
+          "product_introduce": [
+            "黑啤",
+            "白啤",
+            "黄啤",
+            "国产啤酒",
+            "进口啤酒",
+            "烈性啤酒",
+            "精酿啤酒",
+            "果味/无醇",
+            "其他"
+          ]
+        },
+        {
+          "product_title": "葡萄酒",
+          "product_introduce": [
+            "整箱",
+            "精美礼盒",
+            "红葡萄酒",
+            "白葡萄酒",
+            "桃红葡萄酒",
+            "贵腐/加强酒",
+            "起泡酒"
+          ]
+        },
+        {
+          "product_title": "洋酒",
+          "product_introduce": [
+            "白兰地",
+            "威士忌",
+            "单一麦芽",
+            "金酒",
+            "朗姆酒",
+            "龙舌兰",
+            "伏特加",
+            "鸡尾酒",
+            "清酒",
+            "烧酒",
+            "梅子酒"
+          ]
+        },
+        {
+          "product_title": "海外直采",
+          "product_introduce": [
+            "葡萄酒",
+            "啤酒",
+            "洋酒",
+            "世界名庄"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "京东生鲜",
+      "introduce": [
+        "橙子",
+        "奇异果",
+        "北极虾",
+        "牛排",
+        "鸡蛋"
+      ],
+      "product": [
+        {
+          "product_title": "新鲜水果",
+          "product_introduce": [
+            "苹果",
+            "车厘子",
+            "芒果",
+            "奇异果",
+            "橙子",
+            "榴莲",
+            "牛油果",
+            "蓝莓",
+            "火龙果",
+            "山竹"
+          ]
+        },
+        {
+          "product_title": "海鲜水产",
+          "product_introduce": [
+            "鱼类",
+            "虾类",
+            "海产干货",
+            "贝类",
+            "海参",
+            "三文鱼",
+            "龙虾",
+            "帝王蟹",
+            "扇贝",
+            "鳕鱼",
+            "大闸蟹"
+          ]
+        },
+        {
+          "product_title": "猪牛羊肉",
+          "product_introduce": [
+            "牛肉",
+            "羊肉",
+            "猪肉",
+            "牛排",
+            "牛腩",
+            "牛腱子",
+            "羊肉卷",
+            "羊排",
+            "猪蹄"
+          ]
+        },
+        {
+          "product_title": "禽类蛋品",
+          "product_introduce": [
+            "鸡",
+            "鸭",
+            "鸡蛋",
+            "鸭蛋",
+            "鸽",
+            "鸡腿",
+            "鸡翅",
+            "特色禽类"
+          ]
+        },
+        {
+          "product_title": "新鲜蔬菜",
+          "product_introduce": [
+            "叶菜类",
+            "瓜果茄类",
+            "根茎类",
+            "鲜菌菇",
+            "葱姜蒜类",
+            "南瓜",
+            "西红柿",
+            "玉米",
+            "泡菜",
+            "山药"
+          ]
+        },
+        {
+          "product_title": "冷冻速食",
+          "product_introduce": [
+            "水饺",
+            "面点",
+            "包子",
+            "汤圆",
+            "馄饨",
+            "火锅丸子",
+            "速冻半成品",
+            "黄油奶酪",
+            "手抓饼"
+          ]
+        },
+        {
+          "product_title": "饮品甜品",
+          "product_introduce": [
+            "冰淇淋",
+            "低温奶",
+            "甜品蛋糕",
+            "冷藏果蔬汁"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "居家生活",
+      "introduce": [
+        "置物架",
+        "五金",
+        "绿植",
+        "狗粮"
+      ],
+      "product": [
+        {
+          "product_title": "五金工具",
+          "product_introduce": [
+            "花洒头",
+            "洗衣机龙头",
+            "角阀",
+            "地漏",
+            "厨卫挂件",
+            "接线板",
+            "开关",
+            "锁具",
+            "工具",
+            "劳保",
+            "家用胶"
+          ]
+        },
+        {
+          "product_title": "简易家具",
+          "product_introduce": [
+            "书柜书架",
+            "衣帽架",
+            "层架/置物架",
+            "鞋架",
+            "简易衣柜",
+            "晾衣架",
+            "折叠床",
+            "家用梯"
+          ]
+        },
+        {
+          "product_title": "汽车用品",
+          "product_introduce": [
+            "玻璃水",
+            "雨刷",
+            "香水",
+            "汽车配件",
+            "毛巾掸子",
+            "坐垫",
+            "头枕腰靠",
+            "挂件摆件"
+          ]
+        },
+        {
+          "product_title": "营养滋补",
+          "product_introduce": [
+            "蛋白粉",
+            "益生菌",
+            "维生素",
+            "螺旋藻",
+            "增肌粉",
+            "燕窝",
+            "阿胶",
+            "虫草",
+            "参类",
+            "三七",
+            "石斛"
+          ]
+        },
+        {
+          "product_title": "计生用品",
+          "product_introduce": [
+            "安全套",
+            "验孕试纸",
+            "排卵试纸",
+            "杜蕾斯",
+            "杰士邦",
+            "冈本",
+            "超薄",
+            "持久",
+            "倍润",
+            "大象",
+            "赤尾"
+          ]
+        },
+        {
+          "product_title": "内衣配饰",
+          "product_introduce": [
+            "男士内裤",
+            "女士内裤",
+            "文胸",
+            "袜子",
+            "丝袜",
+            "睡衣",
+            "保暖内衣",
+            "丝巾",
+            "帽子",
+            "手套"
+          ]
+        },
+        {
+          "product_title": "运动户外",
+          "product_introduce": [
+            "跑步鞋",
+            "篮球鞋",
+            "徒步鞋",
+            "冲锋衣",
+            "羽毛球",
+            "篮球",
+            "山地车",
+            "运动配件",
+            "NB鞋"
+          ]
+        },
+        {
+          "product_title": "礼品箱包",
+          "product_introduce": [
+            "拉杆箱",
+            "电脑包",
+            "双肩包",
+            "旅行包",
+            "学生书包",
+            "打火机",
+            "礼品文具",
+            "烟具",
+            "美妆礼品"
+          ]
+        },
+        {
+          "product_title": "宠物园艺",
+          "product_introduce": [
+            "狗粮",
+            "猫粮",
+            "狗罐头",
+            "猫罐头",
+            "狗零食",
+            "猫零食",
+            "猫狗日用",
+            "医疗保健",
+            "水族",
+            "绿植"
+          ]
+        }
+      ]
+    }
+  ],
+  "chaoshi_czlf": {
+    "top": [
+      {
+        "id": 11,
+        "img": "../img/chaoshi_czlf/middle1.png",
+        "introduce": "徐福记 沙皇礼盒 沙琪玛礼盒整箱糕点心 新年年货礼盒零食大礼包 1471g",
+        "price": "61.90"
+      },
+      {
+        "id": 12,
+        "img": "../img/chaoshi_czlf/middle2.png",
+        "introduce": "百草味 缤纷爆浆麻薯720g  网红零食年货特产糕点小吃点心送礼糯米糍",
+        "price": "29.90"
+      },
+      {
+        "id": 13,
+        "img": "../img/chaoshi_czlf/middle3.png",
+        "introduce": "【超值量贩定制款】良品铺子 东方食力 肉干肉脯素食 休闲零食大礼包600g",
+        "price": "58.90 "
+      }
+    ],
+    "bottom": [
+      {
+        "id": 14,
+        "img": "../img/chaoshi_czlf/bottom1.png",
+        "title": "花王 纸尿裤 XL44片",
+        "introduce": "花王XL44",
+        "price": "130.00"
+      },
+      {
+        "id": 15,
+        "img": "../img/chaoshi_czlf/bottom2.png",
+        "title": "LORDE里兜 豆腐猫砂6L*6包 除味易结团无尘豆腐砂 玉米植物猫沙猫砂盆猫咪用品 非膨润土 干湿垃圾 垃圾分类",
+        "introduce": "爆款直降",
+        "price": "159.00"
+      },
+      {
+        "id": 16,
+        "img": "../img/chaoshi_czlf/bottom3.png",
+        "title": "美赞臣(Meadjohnson)蓝臻儿童配方奶粉4段800克（三岁以上）",
+        "introduce": "荷兰进口",
+        "price": "368.00"
+      },
+      {
+        "id": 17,
+        "img": "../img/chaoshi_czlf/bottom4.png",
+        "title": "【自营】茅台集团 2017-18年酒茅台醇百年辉煌原浆酱香型白酒53度500ml*6瓶 送礼自饮 6瓶整箱装",
+        "introduce": "送酒",
+        "price": "508.00"
+      },
+      {
+        "id": 18,
+        "img": "../img/chaoshi_czlf/bottom5.png",
+        "title": "养元六个核桃易智优＋核桃乳植物蛋白饮料 240ml*20罐 整箱装    新老包装随机发货",
+        "introduce": "240ml*20",
+        "price": "66.50"
+      }
+    ]
+  },
+  "chaoshi_pptm": {
+    "hot": "../img/chaoshi_pptm/header.png",
+    "top": [
+      "../img/chaoshi_pptm/1.png",
+      "../img/chaoshi_pptm/2.png",
+      "../img/chaoshi_pptm/3.png",
+      "../img/chaoshi_pptm/4.png"
+    ],
+    "bottom": [
+      "../img/chaoshi_pptm/5.png",
+      "../img/chaoshi_pptm/6.png",
+      "../img/chaoshi_pptm/7.png",
+      "../img/chaoshi_pptm/8.png",
+      "../img/chaoshi_pptm/9.png"
+    ]
+  },
+  "chaoshi_rmsp": {
+    "one": [
+      {
+        "id": 21,
+        "img": "img/chaoshi_rmsp/1-1.jpg",
+        "title": "蓝月亮 亮白增艳洗衣液（自然清香）3kg/瓶 （新老包装随机发货",
+        "price": "44.80"
+      },
+      {
+        "id": 22,
+        "img": "img/chaoshi_rmsp/1-2.jpg",
+        "title": "福临门 东北大米 优质东北 中粮出品 大米 4kg（新老包装更替）",
+        "price": "29.80"
+      },
+      {
+        "id": 23,
+        "img": "img/chaoshi_rmsp/1-3.jpg",
+        "title": "大洋世家 冷冻阿根廷红虾 L1 2kg 30-40只 大虾 海鲜烧烤火锅食材",
+        "price": "149.00"
+      },
+      {
+        "id": 24,
+        "img": "img/chaoshi_rmsp/1-4.jpg",
+        "title": "鲁花 食用油 5S 物理压榨 压榨一级 花生油4L （新老包装随机发放）",
+        "price": "125.90"
+      },
+      {
+        "id": 25,
+        "img": "img/chaoshi_rmsp/1-5.jpg",
+        "title": "蒙牛 纯甄 常温酸牛奶 200g*24 礼盒装",
+        "price": "92.90"
+      },
+      {
+        "id": 26,
+        "img": "img/chaoshi_rmsp/1-6.jpg",
+        "title": "金龙鱼 食用油 非转基因 压榨 玉米油5L(赠品随机捆绑) 新老包装随机发货",
+        "price": "69.90"
+      }
+    ],
+    "two": [
+      {
+        "id": 31,
+        "img": "img/chaoshi_rmsp/2-1.jpg",
+        "title": "2018新米 金龙鱼 东北大米 蟹稻共生 盘锦大米5KG(包装更新，新老包装随机发放）",
+        "price": "33.90"
+      },
+      {
+        "id": 32,
+        "img": "img/chaoshi_rmsp/2-2.jpg",
+        "title": "五粮液52度普五 500ML（新老包装随机发货）",
+        "price": "1238.00"
+      },
+      {
+        "id": 33,
+        "img": "img/chaoshi_rmsp/2-3.jpg",
+        "title": "维达(Vinda) 卷纸 蓝色经典4层200g卫生纸*27卷(整箱销售)（3层与4层随机发货）",
+        "price": "79.90"
+      },
+      {
+        "id": 34,
+        "img": "img/chaoshi_rmsp/2-4.jpg",
+        "title": "蓝月亮 深层洁净洗衣液（薰衣草）1kg/瓶 （新老包装随机发货）",
+        "price": "24.90"
+      },
+      {
+        "id": 35,
+        "img": "img/chaoshi_rmsp/2-5.jpg",
+        "title": "樱桃小丸子蒟蒻魔芋海藻冻果冻条果汁棒棒冰办公室休闲零食 混合口味 约23条",
+        "price": "14.90"
+      },
+      {
+        "id": 36,
+        "img": "img/chaoshi_rmsp/2-6.jpg",
+        "title": "花王（Merries）纸尿裤 L54片 大号尿不湿（9-14kg）（日本原装进口）",
+        "price": "110.00"
+      }
+    ]
+  },
+  "chaoshi_nzp": {
+    "background": "../img/chaoshi_nzp/bg.png",
+    "introduce": [
+      "早餐奶",
+      "纯牛奶",
+      "风味奶",
+      "酸奶",
+      "成人奶粉",
+      "乳酸菌",
+      "欧德堡",
+      "蒙牛"
+    ],
+    "product": [
+      {
+        "id": 41,
+        "img": "../img/chaoshi_nzp/1.png",
+        "title": "新西兰原装进口儿童牛奶 安佳（Anchor）金装儿童牛奶 调制乳 190ml*27 整箱装",
+        "price": "99.00"
+      },
+      {
+        "id": 42,
+        "img": "../img/chaoshi_nzp/2.png",
+        "title": "力大狮 Lactasoy 原味豆奶 125ml*6盒 泰国进口 营养早餐 豆奶",
+        "price": "13.09"
+      },
+      {
+        "id": 43,
+        "img": "../img/chaoshi_nzp/3.png",
+        "title": "优乐多 乳酸菌 饮料 牛奶 发酵 益生菌 100ml*20瓶 京东 自营",
+        "price": "29.90"
+      },
+      {
+        "id": 44,
+        "img": "../img/chaoshi_nzp/4.png",
+        "title": "韩国进口 宾格瑞（BINGGRAE）香蕉味牛奶饮料200ml*6",
+        "price": "31.50"
+      },
+      {
+        "id": 45,
+        "img": "../img/chaoshi_nzp/5.png",
+        "title": "金日禾野 中老年核桃粉礼盒 无加蔗糖 礼盒装 谷物早餐 冲饮即食 长辈送礼750g",
+        "price": "79.00"
+      },
+      {
+        "id": 46,
+        "img": "../img/chaoshi_nzp/6.png",
+        "title": "风行牛奶 纯牛奶 200ml*12盒",
+        "price": "29.50"
+      },
+      {
+        "id": 47,
+        "img": "../img/chaoshi_nzp/7.png",
+        "title": "德国DMK进口牛奶  欧德堡（Oldenburger）超高温处理脱脂牛奶200ml*24盒",
+        "price": "58.00"
+      },
+      {
+        "id": 48,
+        "img": "../img/chaoshi_nzp/8.png",
+        "title": "伊利 中老年奶粉双听加量礼盒 送父母礼物（限量款）",
+        "price": "155.00"
+      },
+      {
+        "id": 49,
+        "img": "../img/chaoshi_nzp/9.png",
+        "title": "旺旺 旺仔牛奶 儿童牛奶早餐奶 原味 125ml*24",
+        "price": "58.00"
+      },
+      {
+        "id": 50,
+        "img": "../img/chaoshi_nzp/10.png",
+        "title": "桂格（QUAKER）燕麦片 健康礼盒即食燕麦片 加量囤货装 送礼更体面（1kg罐装*2）（新老包装随机发货）",
+        "price": "65.00"
+      }
+    ]
+  },
+  "chaoshi_qjyp": {
+    "background": "../img/chaoshi_qjyp/bg.png",
+    "introduce": [
+      "手洗洗衣液",
+      "洗衣粉",
+      "洗衣皂",
+      "洗手液",
+      "衣物护理液"
+    ],
+    "product": [
+      {
+        "id": 51,
+        "img": "../img/chaoshi_qjyp/1.png",
+        "title": "亮净 厨房去重油剂 1L 洗洁",
+        "price": "14.80"
+      },
+      {
+        "id": 52,
+        "img": "../img/chaoshi_qjyp/2.png",
+        "title": "西兰 固体清香剂组合装(阳光鲜柠70g*2+清香茉莉70g*1)",
+        "price": "12.90"
+      },
+      {
+        "id": 53,
+        "img": "../img/chaoshi_qjyp/3.png",
+        "title": "finish 洗碗机专用盐2kg 软化盐剂",
+        "price": "22.90"
+      },
+      {
+        "id": 54,
+        "img": "../img/chaoshi_qjyp/4.png",
+        "title": "威猛先生 84 消毒液 清新花香 500g 除菌液 消毒水 漂白水【新老包装随机发货】",
+        "price": "4.90"
+      },
+      {
+        "id": 55,
+        "img": "../img/chaoshi_qjyp/5.png",
+        "title": "雕牌 加香透明皂/洗衣皂206g*2块 肥皂（新老包装随机发货）",
+        "price": "6.90"
+      },
+      {
+        "id": 56,
+        "img": "../img/chaoshi_qjyp/6.png",
+        "title": "金纺柔顺剂 衣物护理剂 柔软护型防静电 淡雅樱花香味4L（羊毛丝绸可用 机手洗）（与洗衣液搭配使用）",
+        "price": "51.90"
+      },
+      {
+        "id": 57,
+        "img": "../img/chaoshi_qjyp/7.png",
+        "title": "五月花 压圈垃圾桶 垃圾篓  家用耐用纸篓11L WYH-GB101",
+        "price": "15.90"
+      },
+      {
+        "id": 58,
+        "img": "../img/chaoshi_qjyp/8.png",
+        "title": "碧浪 Ariel 机洗超净洗衣液超值套装 (3kg*2+200ml*4) 机洗专用 快洗（新老包装随机发货）",
+        "price": "104.00"
+      },
+      {
+        "id": 59,
+        "img": "../img/chaoshi_qjyp/9.png",
+        "title": "美丽雅百洁布厨房海绵洗碗巾餐桌抹布去污洁净清洁布6片装",
+        "price": "7.90"
+      },
+      {
+        "id": 60,
+        "img": "../img/chaoshi_qjyp/10.png",
+        "title": "finish 洗碗机专用机体清洁剂250ml",
+        "price": "36.90"
+      }
+    ]
+  },
+  "xxfood": {
+    "title": "休闲食品",
+    "introduce": [
+      "牛奶",
+      "进口零食",
+      "饮料",
+      "方便面",
+      "饼干",
+      "面包",
+      "休闲食品京东自营",
+      "牛肉干",
+      "薯片",
+      "酸奶",
+      "瓜子",
+      "月饼",
+      "水果"
+    ],
+    "brand": [
+      {
+        "id": 1,
+        "img": "../img/productList/brand/1.jpg",
+        "name": "稻香村"
+      },
+      {
+        "id": 2,
+        "img": "../img/productList/brand/2.jpg",
+        "name": "三只松鼠（Three Squirrels）"
+      },
+      {
+        "id": 3,
+        "img": "../img/productList/brand/3.jpg",
+        "name": "奥利奥（Oreo）"
+      },
+      {
+        "id": 4,
+        "img": "../img/productList/brand/4.jpg",
+        "name": "良品铺子"
+      },
+      {
+        "id": 5,
+        "img": "../img/productList/brand/5.jpg",
+        "name": "达利园"
+      },
+      {
+        "id": 6,
+        "img": "../img/productList/brand/6.jpg",
+        "name": "百草味"
+      },
+      {
+        "id": 7,
+        "img": "../img/productList/brand/7.jpg",
+        "name": "葡记"
+      },
+      {
+        "id": 8,
+        "img": "../img/productList/brand/8.jpg",
+        "name": "徐福记"
+      },
+      {
+        "id": 9,
+        "img": "../img/productList/brand/9.jpg",
+        "name": "港荣"
+      },
+      {
+        "id": 10,
+        "img": "../img/productList/brand/10.jpg",
+        "name": "盼盼"
+      },
+      {
+        "id": 11,
+        "img": "../img/productList/brand/11.jpg",
+        "name": "北京稻香村"
+      },
+      {
+        "id": 12,
+        "img": "../img/productList/brand/12.jpg",
+        "name": "好丽友（ORION）"
+      },
+      {
+        "id": 13,
+        "name": "轩妈"
+      },
+      {
+        "id": 14,
+        "img": "../img/productList/brand/14.jpg",
+        "name": "雀巢（Nestle）"
+      },
+      {
+        "id": 15,
+        "img": "../img/productList/brand/15.jpg",
+        "name": "嘉华"
+      },
+      {
+        "id": 16,
+        "name": "友臣（YOUCHEN）"
+      },
+      {
+        "id": 17,
+        "img": "../img/productList/brand/17.jpg",
+        "name": "嘉士利"
+      },
+      {
+        "id": 18,
+        "name": "格力高"
+      }
+    ],
+    "type": [
+      {
+        "title": "休闲食品",
+        "types": [
+          "饼干蛋糕",
+          "休闲零食",
+          "坚果炒货",
+          "肉干肉脯",
+          "蜜饯果干",
+          "糖果/巧克力",
+          "熟食腊味"
+        ]
+      },
+      {
+        "title": "进口食品",
+        "types": [
+          "饼干蛋糕",
+          "休闲零食",
+          "糖果/巧克力",
+          "方便食品",
+          "饮料",
+          "冲调味",
+          "米面调味",
+          "咖啡"
+        ]
+      },
+      {
+        "title": "包装",
+        "types": [
+          "礼盒装",
+          "组合装",
+          "袋装",
+          "盒装",
+          "整箱装",
+          "罐装"
+        ]
+      },
+      {
+        "title": "口味",
+        "types": [
+          "提拉米苏味",
+          "柠檬味",
+          "香芋味",
+          "咖啡味",
+          "烧烤味",
+          "巧克力味",
+          "蔬果味",
+          "海苔味",
+          "混合口味",
+          "蜂蜜味",
+          "椰子味",
+          "原味"
+        ]
+      }
+    ],
+    "mainfood": [
+      {
+        "id": 1,
+        "img": "../img/productList/product/1.jpg",
+        "title": "杉城 网红休闲零食大礼包一整箱送女友女生儿童礼盒美食品超市好吃的2000g",
+        "price": "109.90",
+        "evaluate": "52万+",
+        "store": "杉城京东自营旗舰店",
+        "weight": "2.36kg",
+        "arrive": "23:00前下单，预计明天(10月15日)送达",
+        "server": [
+          "自营"
+        ],
+        "taste": [
+          {
+            "t_img": "../img/productList/product/1.1.jpg",
+            "t_title": "零食归你你归我150份大容量礼包"
+          },
+          {
+            "t_img": "../img/productList/product/1.2.jpg",
+            "t_title": "不能陪伴你 我就喂饱你"
+          },
+          {
+            "t_img": "../img/productList/product/1.3.jpg",
+            "t_title": "大礼包送公仔 送玫瑰盒"
+          },
+          {
+            "t_img": "../img/productList/product/1.4.jpg",
+            "t_title": "50份肉类零食礼包"
+          },
+          {
+            "t_img": "../img/productList/product/1.5.jpg",
+            "t_title": "30份零食大礼包"
+          },
+          {
+            "t_img": "../img/productList/product/1.6.jpg",
+            "t_title": "网红辣条大礼包"
+          },
+          {
+            "t_img": "../img/productList/product/1.7.jpg",
+            "t_title": "60份零食大礼包"
+          },
+          {
+            "t_img": "../img/productList/product/1.8.jpg",
+            "t_title": "酸辣粉整箱123g*6桶"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "img": "../img/productList/product/2.jpg",
+        "title": " 雀巢(Nestle) 脆脆鲨 休闲零食 威化饼干 巧克力口味640g（24*20g+赠8*20g）新老包装随机发货",
+        "price": "31.90",
+        "evaluate": "312万+",
+        "store": "雀巢休闲零食自营旗舰店",
+        "server": [
+          "自营",
+          "放心购",
+          "闪购",
+          "券199-35",
+          "赠"
+        ],
+        "taste": [
+          {
+            "t_img": "../img/productList/product/2.1.jpg",
+            "t_title": "巧克力味640g(24*20g+赠8*20g)"
+          },
+          {
+            "t_img": "../img/productList/product/2.2.jpg",
+            "t_title": "花生口味640g(24*20g+赠8*20g)"
+          },
+          {
+            "t_img": "../img/productList/product/2.3.jpg",
+            "t_title": "牛奶口味640g(24*20g+赠8*20g)"
+          },
+          {
+            "t_img": "../img/productList/product/2.4.jpg",
+            "t_title": "巧克力味+牛奶味 （640g*2盒）"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "img": "../img/productList/product/3.jpg",
+        "title": " 三只松鼠每日坚果 750g/30袋 儿童孕妇零食节日大礼包送女友混合干果节日礼盒腰果葡萄干核桃仁开心果",
+        "price": "149.00",
+        "evaluate": "376万+",
+        "store": "三只松鼠京东自营旗舰店",
+        "arrive": "23:10前下单，预计明天(10月15日)送达",
+        "server": [
+          "自营",
+          "满149-60"
+        ],
+        "taste": [
+          {
+            "t_img": "../img/productList/product/3.1.jpg",
+            "t_title": "家庭版分享装750g/30天装"
+          },
+          {
+            "t_img": "../img/productList/product/3.2.jpg",
+            "t_title": "新品益生菌添加750/30天装"
+          }
+        ]
+      }
+    ],
+    "aside": [
+      {
+        "id": 1,
+        "img": "../img/productList/asideproduct/1.jpg",
+        "title": "酷兮兮 休闲零食大礼包一整箱送女友女生儿童礼盒网红美食品好吃的组合装礼物1800g",
+        "price": "149.00",
+        "evaluate": "16万+",
+        "store": "酷兮兮（coolxixi）京东自营旗舰店",
+        "weight": "1.36kg",
+        "arrive": "由 京东 发货, 并提供售后服务. 11:10前下单，预计今天(10月14日)送达",
+        "taste": [
+          {
+            "t-img": "../img/productList/asideproduct/1.1.jpg",
+            "t-title": "买一送一共160份零食大礼包"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/1.2.jpg",
+            "t-title": "大礼盒送心形玫瑰礼盒"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/1.3.jpg",
+            "t-title": "买一送一共116份零食大礼包"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/1.4.jpg",
+            "t-title": "买一送一共88份零食大礼包"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/1.5.jpg",
+            "t-title": "买一送一共50份肉类零食大礼包"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "img": "../img/productList/asideproduct/2.jpg",
+        "title": "王小卤虎皮凤爪 网红零食 虎皮鸡爪小零食 卤味卤香五香麻辣香辣 办公室休闲零食小吃200g*2 【镇店爆款虎皮凤爪】200g*2袋（香辣味） 200g",
+        "price": "49.80",
+        "evaluate": "2.9万+",
+        "store": "王小卤官方旗舰店",
+        "arrive": "由 京东 发货, 王小卤官方旗舰店提供售后服务. 18:00前下单，预计10月16日(周五)送达",
+        "taste": [
+          {
+            "t-img": "../img/productList/asideproduct/2.1.jpg",
+            "t-title": "【镇店爆款虎皮凤爪】200g*2袋（卤香味）"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/2.2.jpg",
+            "t-title": "【镇店爆款虎皮凤爪】200g*2袋（香辣味）"
+          },
+          {
+            "t-img": "../img/productList/asideproduct/2.3.jpg",
+            "t-title": "【镇店爆款虎皮凤爪】200g*2袋（椒麻味）"
+          }
+        ]
+      }
+    ]
+  },
+  "user": [
+    {
+      "username": "user1",
+      "password": "12345678",
+      "email": "1@qq.com",
+      "phone": "13211111111",
+      "product": [
+        {
+          "pro_id": 1,
+          "pro_num": 2
+        },
+        {
+          "pro_id": 2,
+          "pro_num": 3
+        },
+        {
+          "pro_id": 3,
+          "pro_num": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "user2",
+      "password": "12345678",
+      "email": "2@qq.com",
+      "phone": "13222222222",
+      "product": [
+        {
+          "pro_id": 1,
+          "pro_num": 6
+        },
+        {
+          "pro_id": 2,
+          "pro_num": 6
+        },
+        {
+          "pro_id": 3,
+          "pro_num": 6
+        }
+      ],
+      "id": 5
+    },
+    {
+      "username": "user3",
+      "password": "12345678",
+      "email": "3@qq.com",
+      "phone": "13233333333",
+      "product": [
+        {
+          "pro_id": 1,
+          "pro_num": 4
+        },
+        {
+          "pro_id": 3,
+          "pro_num": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "jiang",
+      "password": "jiangweiyu",
+      "email": "jiang@qq.com",
+      "phone": "15136429343",
+      "product": [
+        {
+          "pro_id": 2,
+          "pro_num": 10
+        },
+        {
+          "pro_id": 3,
+          "pro_num": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "username": "user10",
+      "password": "12345678",
+      "email": "10@qq.com",
+      "phone": "15123452345",
+      "product": [
+        {
+          "pro_id": 2,
+          "pro_num": 1
+        },
+        {
+          "pro_id": 3,
+          "pro_num": 1
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "goods": [
+    {
+      "id": 1,
+      "img": "../img/productList/product/1.jpg",
+      "title": "杉城 网红休闲零食大礼包一整箱送女友女生儿童礼盒美食品超市好吃的2000g",
+      "price": "109.90",
+      "evaluate": "52万+",
+      "store": "杉城京东自营旗舰店",
+      "weight": "2.36kg",
+      "arrive": "23:00前下单，预计明天(10月15日)送达",
+      "server": [
+        "自营"
+      ],
+      "taste": [
+        {
+          "t_img": "../img/productList/product/1.1.jpg",
+          "t_title": "零食归你你归我150份大容量礼包"
+        },
+        {
+          "t_img": "../img/productList/product/1.2.jpg",
+          "t_title": "不能陪伴你 我就喂饱你"
+        },
+        {
+          "t_img": "../img/productList/product/1.3.jpg",
+          "t_title": "大礼包送公仔 送玫瑰盒"
+        },
+        {
+          "t_img": "../img/productList/product/1.4.jpg",
+          "t_title": "50份肉类零食礼包"
+        },
+        {
+          "t_img": "../img/productList/product/1.5.jpg",
+          "t_title": "30份零食大礼包"
+        },
+        {
+          "t_img": "../img/productList/product/1.6.jpg",
+          "t_title": "网红辣条大礼包"
+        },
+        {
+          "t_img": "../img/productList/product/1.7.jpg",
+          "t_title": "60份零食大礼包"
+        },
+        {
+          "t_img": "../img/productList/product/1.8.jpg",
+          "t_title": "酸辣粉整箱123g*6桶"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "../img/productList/product/2.jpg",
+      "title": " 雀巢(Nestle) 脆脆鲨 休闲零食 威化饼干 巧克力口味640g（24*20g+赠8*20g）新老包装随机发货",
+      "price": "31.90",
+      "evaluate": "312万+",
+      "store": "雀巢休闲零食自营旗舰店",
+      "server": [
+        "自营",
+        "放心购",
+        "闪购",
+        "券199-35",
+        "赠"
+      ],
+      "taste": [
+        {
+          "t_img": "../img/productList/product/2.1.jpg",
+          "t_title": "巧克力味640g(24*20g+赠8*20g)"
+        },
+        {
+          "t_img": "../img/productList/product/2.2.jpg",
+          "t_title": "花生口味640g(24*20g+赠8*20g)"
+        },
+        {
+          "t_img": "../img/productList/product/2.3.jpg",
+          "t_title": "牛奶口味640g(24*20g+赠8*20g)"
+        },
+        {
+          "t_img": "../img/productList/product/2.4.jpg",
+          "t_title": "巧克力味+牛奶味 （640g*2盒）"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "../img/productList/product/3.jpg",
+      "title": " 三只松鼠每日坚果 750g/30袋 儿童孕妇零食节日大礼包送女友混合干果节日礼盒腰果葡萄干核桃仁开心果",
+      "price": "149.00",
+      "evaluate": "376万+",
+      "store": "三只松鼠京东自营旗舰店",
+      "arrive": "23:10前下单，预计明天(10月15日)送达",
+      "server": [
+        "自营",
+        "满149-60"
+      ],
+      "taste": [
+        {
+          "t_img": "../img/productList/product/3.1.jpg",
+          "t_title": "家庭版分享装750g/30天装"
+        },
+        {
+          "t_img": "../img/productList/product/3.2.jpg",
+          "t_title": "新品益生菌添加750/30天装"
+        }
+      ]
+    }
+  ]
+}

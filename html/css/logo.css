@@ -1,0 +1,354 @@
+#logoWrap {
+    background-color: white;
+    min-width: 1190px;
+}
+
+.logo {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.logo>div {
+    float: left;
+}
+
+.logo1 {
+    width: 350px;
+    height: 56px;
+    padding: 0;
+    margin-top: 26px;
+    margin-bottom: 22px;
+    position: relative;
+    /* margin-left: -100px; */
+}
+
+.logo1>a {
+    display: inline-block;
+    width: 213px;
+    height: 56px;
+    background: url(../img/logo/logo.png);
+    background-size: 213px 83px;
+    background-repeat: no-repeat;
+}
+
+.henu {
+    position: absolute;
+    top: 12px;
+    left: 234px;
+    width: 90px;
+}
+
+.henu>p {
+    float: left;
+    width: 17px;
+    height: 26px;
+    background: url(../img/logo/logo.png);
+    background-size: 213px 81px;
+    background-repeat: no-repeat;
+    background-position: 0 -55px;
+}
+
+.henu_right {
+    float: left;
+    margin-left: 6px;
+    width: 65px;
+    height: 26px;
+    position: relative;
+    cursor: default;
+}
+
+.henu_right>li {
+    height: 24px;
+    border-bottom: 2px solid #c91523;
+}
+
+.henu_right>li>span {
+    text-align: center;
+    color: #c91523;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+.henu_right>li>i {
+    display: inline-block;
+    background-image: url(../img/logo/logo.png);
+    background-position: -18px -55px;
+    background-size: 213px 81px;
+    background-repeat: no-repeat;
+    width: 11px;
+    height: 7px;
+    position: absolute;
+    right: 0;
+    top: 9px;
+    transition: transform .1s ease;
+}
+
+.henu_right:hover #henu_xia {
+    transform: rotate(180deg);
+}
+
+#henu_country {
+    width: 301px;
+    padding: 10px 0 10px 10px;
+    top: 27px;
+    left: -25px;
+    background: #fff;
+    border: 1px solid #ddd;
+    line-height: 24px;
+    display: none;
+    position: absolute;
+    color: #666;
+    z-index: 10;
+}
+
+#henu_country a {
+    color: #666;
+}
+
+#country_china li {
+    float: left;
+    width: 60px;
+    padding: 2px 0;
+}
+
+#country_china a {
+    display: inline-block;
+    padding: 0 8px;
+    line-height: 24px;
+}
+
+#country_china a:hover {
+    color: red;
+    background-color: #ddd;
+}
+
+#country_china .country_checked,
+#country_china .country_checked:hover {
+    color: white;
+    background-color: red;
+}
+
+#country_local,
+#country_available {
+    margin: 10px 0 10px 10px;
+}
+
+.country_spacer {
+    width: 262px;
+    height: 0;
+    border-bottom: 1px dotted #eee;
+}
+
+#country_local>p,
+#country_available>p {
+    margin: 9px 0;
+}
+
+#country_local>ul>li,
+#country_available>ul>li {
+    float: left;
+    width: 145px;
+    height: 26px;
+    padding: 0;
+    line-height: 26px;
+}
+
+#country_local>ul>li>a:hover,
+#country_available>ul>li>a:hover {
+    color: red;
+}
+
+#country_available i {
+    display: inline-block;
+    margin-right: 8px;
+    width: 15px;
+    height: 10px;
+    border: 1px solid transparent;
+    background-repeat: no-repeat;
+    background-image: url(../img/logo/country.png);
+}
+
+#country_available #country_available_one {
+    background-position: -1px 0;
+    height: 12px;
+}
+
+#country_available #country_available_two {
+    background-position: -20px 0;
+    border: 1px solid #ebebeb;
+}
+
+#country_available #country_available_three {
+    background-position: 0 -17px;
+    border: 1px solid #ebebeb;
+}
+
+#country_available #country_available_four {
+    background-position: -40px 0;
+}
+
+#country_available #country_available_five {
+    background-position: -20px -17px;
+}
+
+.logo2 {
+    width: 450px;
+    margin: 27px 0 0 80px;
+    position: relative;
+}
+
+.logo_search input {
+    width: 360px;
+    border-color: #ffa133;
+    color: #999;
+    height: 24px;
+    line-height: 24px;
+    padding: 4px;
+    margin-bottom: 4px;
+    border-width: 2px 0 2px 2px;
+    border-style: solid;
+    outline: 0;
+    font-size: 12px;
+    float: left;
+}
+
+.logo_search button {
+    width: 80px;
+    background: #ffa133;
+    height: 36px;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+}
+
+#logo_input_show {
+    width: 448px;
+    position: absolute;
+    top: 36px;
+    left: 0;
+    border: 1px solid #CCC;
+    background: #fff;
+    z-index: 10;
+    display: none;
+}
+
+#logo_input_show>li {
+    background-color: white;
+    padding: 1px 5px;
+    line-height: 22px;
+    cursor: pointer;
+    color: #666;
+}
+
+#logo_input_show>li:hover {
+    background-color: rgb(255, 223, 198);
+}
+
+.logo3 {
+    margin-left: 30px;
+    margin-top: 27px;
+    margin-bottom: 4px;
+    width: 91px;
+    height: 34px;
+    border: 1px solid #DFDFDF;
+    padding: 0 28px 0 19px;
+    background: #F9F9F9;
+    line-height: 34px;
+    position: relative;
+    cursor: default;
+}
+
+.logo3 a {
+    color: #f30213;
+}
+
+.logo3 i {
+    display: inline-block;
+    position: absolute;
+    top: 9px;
+    left: 90px;
+    width: 16px;
+    height: 16px;
+    background: url(../img/logo/gouwuche.png) no-repeat;
+    background-size: 16px 16px;
+}
+
+.logo3 b {
+    position: absolute;
+    top: 7px;
+    left: 105px;
+    display: inline-block;
+    padding: 1px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -1px;
+    color: #fff;
+    background-color: #da1026;
+    border-radius: 7px;
+    min-width: 14px;
+    font-family: tahoma,
+        arial;
+    text-align: center;
+}
+
+.logo4 {
+    position: relative;
+    margin-top: 27px;
+    margin-left: 30px;
+    margin-bottom: 4px;
+    width: 120px;
+    color: #666;
+}
+
+.logo4>a:first-child {
+    text-align: center;
+    border: 1px solid #dfdfdf;
+    display: block;
+    height: 34px;
+    line-height: 34px;
+    background: #f9f9f9;
+    position: relative;
+    padding-left: 30px;
+}
+
+.logo4>a:first-child i {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 5px;
+    left: 8px;
+    background-size: 25px 25px;
+    background-image: url(../img/logo/img1.png);
+}
+
+.logo4_img {
+    position: absolute;
+    border: 1px solid #dfdfdf;
+    width: 108px;
+    padding: 5px;
+    text-align: center;
+    z-index: 100;
+    background: #fff;
+    top: 35px;
+    display: none;
+    z-index: 10;
+}
+
+.logo5 {
+    padding-left: 80px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.logo5 a {
+    margin-right: 10px;
+    color: #999;
+}
+
+.logo5 a:hover {
+    color: red;
+}

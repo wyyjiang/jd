@@ -1,0 +1,241 @@
+.logo {
+    width: 1390px;
+    margin: 0 auto;
+}
+
+.logo1 {
+    position: relative;
+    float: left;
+    width: 276px;
+    height: 50px;
+    margin: 15px 0 22px;
+}
+
+.logo1>a {
+    display: block;
+    margin-top: 2px;
+    width: 134px;
+    height: 42px;
+    background: url(../img/productList/logo1.png) no-repeat 0 0;
+    background-size: 134px 42px;
+    text-indent: -20000px;
+}
+
+.logo2 {
+    position: relative;
+    float: left;
+    margin: 27px 30px 0 95px;
+}
+.logo2>ul{
+    width: 704px;
+    overflow: hidden;
+    position: absolute;
+    top: 36px;
+    left: 0;
+    border: 1px solid #CCC;
+    background: #fff;
+    display: none;
+    z-index: 10;
+}
+.logo2>ul>li{
+    background-color: white;
+    padding: 1px 5px;
+    line-height: 22px;
+    cursor: pointer;
+    color: #666;
+}
+.logo2>ul>li:hover{
+    background-color: rgb(255, 223, 198);
+}
+
+.logo2_form {
+    height: 40px;
+}
+
+.logo2_form>input {
+    display: inline-block;
+    width: 576px;
+    color: #999;
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    padding: 4px;
+    padding-right: 44px;
+    margin-bottom: 4px;
+    border-width: 2px 0 2px 2px;
+    border-color: #f30213;
+    border-style: solid;
+    outline: 0;
+    font-size: 12px;
+}
+
+.logo2_form>span {
+    position: absolute;
+    right: 95px;
+    top: 10px;
+    width: 19px;
+    height: 15px;
+    overflow: hidden;
+    display: block;
+    background: url(../img/productList/logo2.png) no-repeat;
+    cursor: pointer;
+}
+
+.logo2_form>button {
+    float: left;
+    width: 80px;
+    height: 36px;
+    font-family: tahoma,
+        arial,
+        Microsoft YaHei,
+        Hiragino Sans GB,
+        "\u5b8b\u4f53",
+        sans-serif;
+    background: #f30213;
+    border: none;
+    border-radius: 0;
+    line-height: 1;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.logo3 {
+    float: left;
+    height: 36px;
+    margin-top: 27px;
+}
+
+.logo3_main {
+    width: 91px;
+    height: 34px;
+    border: 1px solid #DFDFDF;
+    padding: 0 28px 0 19px;
+    background: #F9F9F9;
+    line-height: 34px;
+    position: relative;
+    cursor: default;
+    zoom: 1;
+}
+
+.logo3_main>i:nth-of-type(1) {
+    left: 90px;
+    top: 0;
+    color: #f30213;
+    font-size: 16px;
+    display: block;
+    position: absolute;
+    overflow: hidden;
+}
+
+.logo3_num {
+    position: absolute;
+    top: 7px;
+    left: 105px;
+    display: inline-block;
+    padding: 1px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -1px;
+    color: #fff;
+    background-color: #da1026;
+    border-radius: 7px;
+    min-width: 14px;
+    font-family: tahoma,
+        arial;
+    text-align: center;
+}
+
+.logo3_main>a {
+    color: #f30213;
+}
+.logo4{
+    width: 705px;
+    float: left;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+    padding-left: 95px;
+}
+.logo4>a{
+    color: #999;
+    float: left;
+}
+.logo4>a:hover{
+    color: #f30213;
+}
+.logo4>i{
+    display: block;
+    float: left;
+    width: 21px;
+    font: 12px/20px "Helvetica Neue",
+    "Hiragino Sans GB",
+    SimSun,
+    serif;
+    color: #ccc;
+    text-align: center;
+}
+.nav{
+    margin-top: 10px;
+    height: 33px;
+    border-bottom: 2px solid #f30213;
+}
+.nav>div{
+    position: relative;
+    width: 1390px;
+    margin: 0 auto;
+}
+.nav_main{
+    height: auto;
+    left: 0px;
+    position: absolute;
+    float: left;
+    width: 190px;
+    line-height: 33px;
+    background: #f30213;
+    overflow: visible;
+}
+.nav_main>a{
+    padding: 0 10px;
+    font-size: 14px;
+    position: relative;
+    bottom: 0;
+    color: #fff;
+    display: block;
+    height: 34px;
+    background: #f30213;
+    text-decoration: none;
+    text-align: center;
+}
+.nav_body{
+    padding-left: 190px;
+    float: left;
+    position: relative;
+}
+.nav_body>ul,.nav_body>.spacer{
+    float: left;
+}
+.nav_body>.spacer{
+    width: 1px;
+    height: 13px;
+    margin: 10px 0;
+    background: #eee;
+    overflow: hidden;
+    display: block;
+}
+.nav_body>ul>li{
+    float: left;
+}
+.nav_body>ul>li>a{
+    font-weight: 700;
+    height: 33px;
+    padding: 0 22px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 33px;
+    color: #333;
+}
+.nav_body a:hover{
+    color: #f30213;
+}

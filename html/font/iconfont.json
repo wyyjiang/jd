@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "436020",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e809",
+      "unicode_decimal": 59401
+    },
+    {
+      "icon_id": "1190106",
+      "name": "正品保证",
+      "font_class": "zhengpinbaozheng",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "2529736",
+      "name": "二维码",
+      "font_class": "qr-code",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "5979996",
+      "name": "展开 下箭头-01",
+      "font_class": "zhankaixiajiantou-",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "6234166",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "12979669",
+      "name": "首页 店铺 集市 商城",
+      "font_class": "shouyedianpujishishangcheng",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13191371",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13839279",
+      "name": "包邮",
+      "font_class": "baoyou",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14112857",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    }
+  ]
+}
